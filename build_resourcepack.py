@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+# OpenPVP country flag resource-pack builder.
+
 import hashlib
 import io
 import json
